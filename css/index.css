@@ -1,0 +1,45 @@
+body {
+    font-family: helvetica, sans-serif;
+    width: 100%;
+}
+
+label {
+    font-weight: bold;
+}
+
+div {
+    padding-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 150px;
+    border: 1px solid #ffc125;
+    border-radius: 5px;
+}
+
+fieldset{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #5e2612;
+    background-color: #ffc125;
+    border-radius: 15px;
+    border-color: #ffc125;
+    border: 0px solid;
+}
+
+button{
+    font-size: 14px;
+    background-color: rgb(196, 135, 5);
+    border: 1px solid rgb(196, 135, 5);
+    height: 25px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+p {
+    background: #ffc125;
+    color: #5e2612;
+    font-size: 16px;
+    padding: 10px;
+    visibility: hidden;
+}
